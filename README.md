@@ -1,4 +1,4 @@
-Quan lý khách sạn
+Quản lý khách sạn
 
 Goals
 
